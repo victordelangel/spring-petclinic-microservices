@@ -18,7 +18,7 @@ env:
   VETS_SERVICE_JAR: spring-petclinic-vets-service/target/spring-petclinic-vets-service-2.5.1.jar
   VISITS_SERVICE_JAR: spring-petclinic-visits-service/target/spring-petclinic-visits-service-2.5.1.jar
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     steps:
