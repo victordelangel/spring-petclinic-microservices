@@ -4,7 +4,7 @@ on: [push]
 env:
   AZURE_SUBSCRIPTION: 462d3323-cb7a-4777-b86b-a898f709917c # customize this
   SPRING_CLOUD_SERVICE: videla-springcloud # customize this
-  KEYVAULT: videla-keyvault # customize this
+  KEYVAULT: videla-keyvault # customize this 
   # ==== APPS ====:
   API_GATEWAY: api-gateway
   ADMIN_SERVER: admin-server
